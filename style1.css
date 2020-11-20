@@ -1,0 +1,111 @@
+
+a{
+	text-decoration: none;
+	color: rgb(79, 0, 45);
+
+}
+#first{
+	border-bottom: 3px solid rgb(242, 160, 237);
+	display: flex;
+	justify-content: space-between;
+}
+.fir-img{
+	margin-left: 35px;
+	width: 130px;
+	height: 130px;
+}
+.fir-ul{
+	list-style: none;
+	color: purple;
+	font-size: 25px;
+	display: inline-flex;
+
+}
+li{
+	margin-left: 5px;
+	margin-right: 35px;
+	margin-top: 25px;
+}
+#second{
+	display: flex;
+	justify-content: space-between;
+	font-size: 20px;
+	color: rgb(92, 55, 17);
+	margin-left: 20px;
+	border-bottom: 3px solid rgb(242, 160, 237);
+}
+.sec-h1{
+	color: purple;
+
+}
+.sec-img{
+	margin-top: 0px;
+	margin-right: 30px;
+	margin-left: 50px;
+	width: 400px;
+	height: 400px;
+}
+#cards{
+	display: flex;
+	justify-content: space-around;
+	border-bottom: 3px solid rgb(242, 160, 237);
+	background-color: lightgray;
+
+}
+.cards{
+	border: 4px solid rgb(79, 0, 45);
+	text-align: center;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	border-radius: 10px;
+	
+	background-color: rgb(255, 224, 242);
+}
+.pri{
+	border-top: 3px solid rgb(79, 0, 45);
+	border-bottom: 2px solid rgb(79, 0, 45);
+	background-color: white; 	
+}
+h3{
+	color: purple;
+	font-size: 20px;
+
+}
+
+#footer{
+	margin-top: 10px;
+	display: flex;
+	justify-content: space-around;
+	text-align: center;
+}
+h5{
+	color: purple;
+	font-size: 20px;
+}
+.fot-ul{
+	list-style: none;
+	font-size: 18px;
+}
+.fot-links{
+	margin-left: 70px;
+	color: rgb(92, 55, 17);
+}
+.fot-logo{
+	margin-right: 70px;
+}
+.copyrights{
+	padding-left: 150px;
+	padding-right: 150px;
+	border-right: 2px solid rgb(242, 160, 237);
+	border-left: 2px solid rgb(242, 160, 237); 
+	padding-top: 70px;
+}
+.logos{
+	width: 50px;
+	height: 50px;
+}
+/*pages*/
+#about,#contact{
+	text-align: center;
+	color: purple;
+}
